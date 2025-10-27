@@ -39,17 +39,25 @@
 
 ---
 
+<h3> 🐾 A Little Fun </h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200">
+<br>
+<em>Just a cat making sure I don’t overwork 🐱💻</em>
+</p>
+
+---
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 <a href="https://github.com/Ampexqt"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ampexqt-black?style=flat-square&logo=github"></a>
-<a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
-<a href="#"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=google-chrome"></a>
-<a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="haroldzkie99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
+<a href="https://ampexqt.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=google-chrome"></a>
 </p>
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Ampexqt.Ampexqt)  
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 ---
-
