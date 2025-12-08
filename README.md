@@ -30,19 +30,21 @@
 
 <br/>
 
+<br/>
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ampexqt&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+  <!-- Stats Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ampexqt&theme=github_dark" height="165" />
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ampexqt&layout=compact&theme=tokyonight&langs_count=8" height="170" />
+  <!-- Streak Card -->
+  <img src="https://streak-stats.demolab.com/?user=Ampexqt&theme=highcontrast" height="165" />
 </p>
 
-<!-- Streak Stats (which you already have) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ampexqt&theme=highcontrast&date=today" height="170" />
+  <!-- Languages Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ampexqt&theme=github_dark&exclude_repo=github-readme-stats" height="165" />
 </p>
 
 
