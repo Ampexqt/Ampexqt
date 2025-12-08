@@ -29,14 +29,7 @@
 
 <br/>
 
-[![Harold's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ampexqt&show_icons=true&theme=react)](https://github.com/Ampexqt)
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ampexqt&show_icons=true&theme=react)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ampexqt&show_icons=true&theme=tokyonight" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ampexqt&theme=tokyonight" height="170" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ampexqt&layout=compact&theme=tokyonight" height="170" /> </p>
 ---
 
 <h3> 🐾 A Little Fun </h3>
