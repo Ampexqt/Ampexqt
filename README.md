@@ -33,16 +33,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Alternative 1 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ampexqt&theme=highcontrast" height="170" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ampexqt&show_icons=true&theme=tokyonight&count_private=true" height="170" />
   
-  <!-- Alternative 2 -->
-  <img src="https://git-streak-stats.herokuapp.com/?user=Ampexqt&theme=highcontrast" height="170" />
-  
-  <!-- Alternative 3 -->
-  <img src="https://streak-stats.demolab.com/?user=Ampexqt&theme=highcontrast&date=today" height="170" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ampexqt&layout=compact&theme=tokyonight&langs_count=8" height="170" />
 </p>
 
+<!-- Streak Stats (which you already have) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ampexqt&theme=highcontrast&date=today" height="170" />
+</p>
 
 
 ---
