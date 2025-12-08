@@ -1,79 +1,37 @@
-### Hi there 👋  
-<h2> I'm Harold </h2>
+<div align="center">
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
-<h3> 👨🏻‍💻 About Me </h3>
+# 👋 Hi, I'm **Harold**  
+### Full-Stack Web Developer • UI/UX Designer • Code Explorer 🚀
 
-- 🤔 Exploring new technologies and building creative web solutions.  
-- 🌱 Currently learning about cloud integration and real-time applications.  
-- 💡 Passionate about full-stack development and clean UI design.  
-- ⚡ I enjoy solving problems and creating modern, responsive web apps.  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Beautiful+Code.;Crafting+Web+Experiences+that+Matter.;Designing+Clean+%26+Scalable+Systems.;Always+Learning.+Always+Building." />
 
----
+<p>
+<img src="https://komarev.com/ghpvc/?username=Ampexqt&label=Profile%20Views&color=00d9ff&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Ampexqt?style=for-the-badge&color=00d9ff"/>
+<img src="https://img.shields.io/badge/Status-Active%20Developer%20🚀-00d9ff?style=for-the-badge"/>
+</p>
 
-<h3>🛠 Tech Stack</h3>
-
-- 🌐 **Frontend:** HTML5 | CSS3 | JavaScript | React.js | Axios | Fetch API  
-- 🔧 **Backend:** PHP | Node.js  
-- 🛢 **Database:** MySQL | Firebase | PostgreSQL  
-- 🚀 **Version Control & Deployment:** Git | GitHub | XAMPP | InfinityFree  
-- 🧰 **Tools & Design:** Cursor | VS Code | Windsurf | Figma | Canva  
+</div>
 
 ---
 
-<h3>📚 To Learn Next</h3>
+## 🧑‍💻 **About Me**
 
-- ☁️ AWS | Docker 🐳 | Express.js | API Security  
-
----
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Stats Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ampexqt&theme=github_dark" height="165" />
+```ts
+const harold = {
+  name: "Harold Rueda",
+  role: "Full Stack Web Developer",
+  location: "📍 Philippines — Zamboanga Peninsula",
+  interests: ["UI/UX", "Web Systems", "Mobile Apps", "Automation"],
+  philosophy: "Clean code wins. Maintainability beats shortcuts.",
   
-  <!-- Streak Card - ADDED BACK HERE -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ampexqt&theme=highcontrast" height="170" />
-</p>
+  currentlyLearning: [
+    "⚡ Advanced React Patterns",
+    "🔐 Secure PHP & MySQL Architectures",
+    "📦 Full E-Commerce Systems",
+  ],
 
-<p align="center">
-  <!-- Languages Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ampexqt&theme=github_dark&exclude_repo=github-readme-stats" height="165" />
-</p>
-
----
-
-<h3> 🐾 A Little Fun </h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-  <br>
-  <em>Just a cat making sure I don't overwork 🐱💻</em>
-</p>
-
----
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-  <a href="https://github.com/Ampexqt">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ampexqt-black?style=flat-square&logo=github">
-  </a>
-  <a href="mailto:haroldzkie99@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail">
-  </a>
-  <a href="https://ampexqt.vercel.app/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=google-chrome">
-  </a>
-</p>
-
----
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Ampexqt.Ampexqt)  
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"/>
-
----
+  funFact: "I break things until they work 😅",
+};
