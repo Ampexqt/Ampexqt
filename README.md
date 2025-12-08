@@ -37,7 +37,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ampexqt&theme=github_dark" height="165" />
   
   <!-- Streak Card - ADDED BACK HERE -->
- <img src="https://git-streak-stats.herokuapp.com/?user=Ampexqt&theme=highcontrast" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ampexqt&theme=highcontrast" height="170" />
 </p>
 
 <p align="center">
