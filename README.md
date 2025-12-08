@@ -34,12 +34,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats-mirror.vercel.app/api?username=ampexqt&show_icons=true&theme=tokyonight" height="170" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ampexqt&theme=highcontrast" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ampexqt&theme=highcontrast" height="170" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=ampexqt&layout=compact&theme=tokyonight" height="170" />
 </p>
+
 
 
 ---
