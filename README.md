@@ -30,28 +30,20 @@
 
 <br/>
 
-<br/>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Stats with different theme -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ampexqt&theme=2077" height="165" />
+  <!-- Stats Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ampexqt&theme=github_dark" height="165" />
   
-  <!-- Streak matching theme -->
-  <img src="https://streak-stats.demolab.com/?user=Ampexqt&theme=dark" height="165" />
+  <!-- Streak Card - ADDED BACK HERE -->
+  <img src="https://streak-stats.demolab.com/?user=Ampexqt&theme=highcontrast" height="165" />
 </p>
 
 <p align="center">
-  <!-- Repos per language -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ampexqt&theme=2077" height="165" />
-  
-  <!-- Most commit language -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ampexqt&theme=2077" height="165" />
+  <!-- Languages Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ampexqt&theme=github_dark&exclude_repo=github-readme-stats" height="165" />
 </p>
-
 
 ---
 
@@ -60,7 +52,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
   <br>
-  <em>Just a cat making sure I don’t overwork 🐱💻</em>
+  <em>Just a cat making sure I don't overwork 🐱💻</em>
 </p>
 
 ---
