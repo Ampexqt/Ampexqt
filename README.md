@@ -33,15 +33,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-mirror.vercel.app/api?username=ampexqt&show_icons=true&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ampexqt&theme=highcontrast&date=today" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=ampexqt&layout=compact&theme=tokyonight" height="170" />
+  <!-- Alternative 1 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ampexqt&theme=highcontrast" height="170" />
+  
+  <!-- Alternative 2 -->
+  <img src="https://git-streak-stats.herokuapp.com/?user=Ampexqt&theme=highcontrast" height="170" />
+  
+  <!-- Alternative 3 -->
+  <img src="https://streak-stats.demolab.com/?user=Ampexqt&theme=highcontrast&date=today" height="170" />
 </p>
 
 
