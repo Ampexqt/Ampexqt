@@ -5,18 +5,21 @@
 
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Angelito+Halmain;Full+Stack+Web+Developer;Code+Alchemist+%E2%9C%A8" alt="Typing SVG" />
+  <!-- CUSTOMIZE YOUR NAME & TITLES HERE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Ampexqt;Your+Title+Here;Code+Alchemist+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+scalable+web+solutions+%F0%9F%9A%80;From+Mindanao%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD;Turning+coffee+into+code+%E2%98%95;Making+the+web+awesome%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Subtitle" />
+  <!-- CUSTOMIZE YOUR TAGLINE HERE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+scalable+web+solutions+%F0%9F%9A%80;Your+Location+Here+%F0%9F%87%B5%F0%9F%87%AD;Turning+coffee+into+code+%E2%98%95;Making+the+web+awesome%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Subtitle" />
 </p>
 
 
 <!-- Badges -->
 <p>
-<img src="https://komarev.com/ghpvc/?username=codeyatoh&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/codeyatoh?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="followers" />
+<!-- CUSTOMIZE: Replace 'codeyatoh' with 'Ampexqt' -->
+<img src="https://komarev.com/ghpvc/?username=Ampexqt&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Ampexqt?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="followers" />
 <img src="https://img.shields.io/badge/Status-Building%20%F0%9F%9A%80-00d9ff?style=for-the-badge&labelColor=1a1b27" alt="status" />
 </p>
 
@@ -30,30 +33,30 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 ```typescript
-const angelito = {
-    role: "Full Stack Web Developer",
-    location: "📍 Zamboanga City, Mindanao, Philippines",
-    timezone: "Asia/Manila (GMT+8)",
+const ampexqt = { // CUSTOMIZE: Change variable name
+    role: "Your Role Here", // CUSTOMIZE: e.g., "Full Stack Developer"
+    location: "📍 Your City, Country", // CUSTOMIZE
+    timezone: "Your/Timezone (GMT+X)", // CUSTOMIZE
     
     currentlyWorkingOn: [
-        "🎯 Enterprise-grade React component libraries",
-        "🔥 Real-time applications with Firebase & WebSockets",
-        "🔐 Secure REST/GraphQL API architectures",
-        "📱 Progressive Web Apps (PWA) with offline-first design"
+        "🎯 Project 1 Description",
+        "🔥 Project 2 Description",
+        "🔐 Technology or Skill you're learning",
+        "📱 Your current focus area"
     ],
     
     techStack: {
-        frontend: ["React", "TypeScript", "Vite", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "PHP", "GraphQL"],
-        databases: ["MySQL", "PostgreSQL", "Firebase", "MongoDB"],
-        mobile: ["Flutter", "Dart", "React Native"],
-        devOps: ["Docker", "Kubernetes", "GitHub Actions", "AWS"],
-        design: ["Figma", "Adobe XD", "Photoshop"]
+        frontend: ["React", "TypeScript", "Vite", "Tailwind CSS"], // CUSTOMIZE
+        backend: ["Node.js", "Express", "Your Backend Tech"], // CUSTOMIZE
+        databases: ["MySQL", "PostgreSQL", "MongoDB"], // CUSTOMIZE
+        mobile: ["React Native", "Flutter"], // CUSTOMIZE or remove
+        devOps: ["Docker", "GitHub Actions", "AWS"], // CUSTOMIZE
+        design: ["Figma", "Adobe XD"] // CUSTOMIZE or remove
     },
     
-    funFact: "I debug with console.log() and I'm not ashamed! 😅",
-    lifePhilosophy: "Clean code > Quick code. Scalability > Speed.",
-    drinkOfChoice: "☕ Coffee (Lots of it)"
+    funFact: "Your fun fact here! 😅",
+    lifePhilosophy: "Your coding philosophy.",
+    drinkOfChoice: "☕ Your preferred beverage"
 };
 ```
 
