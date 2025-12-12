@@ -6,7 +6,7 @@
 
 <h1>
   <!-- CUSTOMIZE YOUR NAME & TITLES HERE -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Ampexqt;Your+Title+Here;Code+Alchemist+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Ampexqt;Jhon Harold Rueda;Code+Alchemist+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 <p>
