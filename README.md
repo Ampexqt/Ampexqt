@@ -7,7 +7,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00D9FF&center=true&width=500&lines=Hello+World;Jhon+Harold+Rueda" alt="Test Typing" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+scalable+web+solutions;Philippines+🇵🇭;Turning+coffee+into+code;Making+the+web+better%2C+one+commit+at+a+time" alt="Subtitle" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+scalable+web+solutions+%F0%9F%9A%80;From+Mindanao%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD;Turning+coffee+into+code+%E2%98%95;Making+the+web+awesome%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Subtitle" />
+</p>
+
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Ampexqt&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
