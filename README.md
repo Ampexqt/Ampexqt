@@ -3,9 +3,9 @@
 <!-- Header: Coding GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding Animation"/>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Ampexqt;Jhon+Harold+Rueda;Code+Alchemist+✨" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00D9FF&center=true&width=500&lines=Hello+World;Jhon+Harold+Rueda" alt="Test Typing" />
+</p>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+scalable+web+solutions;Philippines+🇵🇭;Turning+coffee+into+code;Making+the+web+better%2C+one+commit+at+a+time" alt="Subtitle" />
