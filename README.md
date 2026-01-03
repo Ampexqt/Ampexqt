@@ -199,7 +199,7 @@ const ampexqt = {
 <a href="https://www.facebook.com/haroldzkie23">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
 </a>
-<a href="https://instagram.com/_hlmnyatoh">
+<a href="https://www.instagram.com/ampexxqt?igsh=MTZxMXVkcTNyM3YzdQ==">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
 </a>
 <a href="mailto:a.halmain.official@gmail.com">
