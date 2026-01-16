@@ -43,13 +43,11 @@ const ampexqt = {
   ],
 
   techStack: {
-    frontend: ["React", "JavaScript", "HTML", "CSS", "Vite", "Tailwind CSS", "Bootstrap", "ShadCN/UI"],
-    backend: ["Node.js", "Express.js", "Python", "PHP", "RESTful API"],
-    databases: ["MySQL", "PostgreSQL", "Firebase Firestore"],
+    frontend: ["React", "JavaScript", "HTML", "CSS", "Vite", "Tailwind CSS", "Bootstrap"],
+    backend: ["Node.js", "Express.js", "Python", "PHP"],
+    databases: ["MySQL", "PostgreSQL", "Firebase"],
     mobile: ["Flutter", "Dart"],
-    visualization: ["ECharts", "Chart.js"],
-    tools: ["Git", "GitHub", "VS Code", "Figma", "npm", "yarn"],
-    deployment: ["Vercel", "Netlify", "Firebase"]
+    tools: ["Git", "GitHub", "VS Code", "Figma", "npm", "Vercel", "Netlify"],
   },
 
   focusAreas: [
@@ -77,12 +75,7 @@ const ampexqt = {
 <td width="50%" valign="top">
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,html,css,js,vite,tailwind,bootstrap,sass&theme=dark&perline=4" />
-
-**Additional:**
-- ShadCN/UI
-- ECharts
-- Chart.js
+<img src="https://skillicons.dev/icons?i=react,html,css,js,vite,tailwind,bootstrap&theme=dark&perline=4" />
 
 ### 📱 Mobile Development  
 <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark&perline=4" />
@@ -93,16 +86,8 @@ const ampexqt = {
 ### ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql,postgres,firebase&theme=dark&perline=4" />
 
-**Additional:**
-- RESTful API
-- Firebase Firestore
-
 ### 🛠️ DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,firebase,npm&theme=dark&perline=4" />
-
-**Additional:**
-- yarn
-- .env Configuration
 
 </td>
 </tr>
