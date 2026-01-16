@@ -43,11 +43,13 @@ const ampexqt = {
   ],
 
   techStack: {
-    frontend: ["React", "TypeScript", "Vite", "Tailwind CSS"],
-    backend: ["Node.js", "Express"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    tools: ["Git", "GitHub", "Docker", "Figma"],
-    deployment: ["Vercel", "Railway", "AWS"]
+    frontend: ["React", "JavaScript", "HTML", "CSS", "Vite", "Tailwind CSS", "Bootstrap", "ShadCN/UI"],
+    backend: ["Node.js", "Express.js", "Python", "PHP", "RESTful API"],
+    databases: ["MySQL", "PostgreSQL", "Firebase Firestore"],
+    mobile: ["Flutter", "Dart"],
+    visualization: ["ECharts", "Chart.js"],
+    tools: ["Git", "GitHub", "VS Code", "Figma", "npm", "yarn"],
+    deployment: ["Vercel", "Netlify", "Firebase"]
   },
 
   focusAreas: [
@@ -58,7 +60,7 @@ const ampexqt = {
   ],
 
   funFact: "I refactor code for fun.",
-  lifePhilosophy: "If it works, improve it. If it’s clean, scale it.",
+  lifePhilosophy: "If it works, improve it. If it's clean, scale it.",
   drinkOfChoice: "☕ Coffee"
 };
 
@@ -75,19 +77,32 @@ const ampexqt = {
 <td width="50%" valign="top">
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,vite,webpack&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=react,html,css,js,vite,tailwind,bootstrap,sass&theme=dark&perline=4" />
+
+**Additional:**
+- ShadCN/UI
+- ECharts
+- Chart.js
 
 ### 📱 Mobile Development  
-<img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark&perline=4" />
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,postgres,mongodb,firebase,graphql,redis&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql,postgres,firebase&theme=dark&perline=4" />
+
+**Additional:**
+- RESTful API
+- Firebase Firestore
 
 ### 🛠️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,vscode,figma,linux,bash&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,firebase,npm&theme=dark&perline=4" />
+
+**Additional:**
+- yarn
+- .env Configuration
 
 </td>
 </tr>
@@ -131,19 +146,19 @@ const ampexqt = {
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
 <br><br>
 <h3>🌐 Full Stack Architecture</h3>
-<p>Building scalable enterprise applications with React, Node.js, and cloud-native technologies</p>
+<p>Building scalable enterprise applications with React, Node.js, and modern deployment platforms</p>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
 <br><br>
-<h3>🔐 API Security</h3>
-<p>Implementing robust authentication, authorization, and data protection strategies</p>
+<h3>🔐 API Development</h3>
+<p>Implementing robust RESTful APIs with Express.js and secure database integrations</p>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="80"/>
 <br><br>
-<h3>📱 Mobile-First PWAs</h3>
-<p>Creating offline-capable progressive web applications with seamless UX</p>
+<h3>📱 Mobile-First Development</h3>
+<p>Creating cross-platform mobile applications with Flutter and responsive web designs</p>
 </td>
 </tr>
 </table>
