@@ -31,7 +31,7 @@
 const ampexqt = {
   name: "Jhon Harold Rueda",
   alias: "Ampexqt",
-  role: "Full Stack Web Developer",
+  role: "Full Stack Website Developer",
   location: "Philippines 🇵🇭",
   timezone: "GMT+8",
 
