@@ -252,10 +252,21 @@ const ampexqt = {
 
 <br>
 
-<!-- Snake Animation -->
+<!-- Snake Animation - Generated from YOUR real GitHub contributions! -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ampexqt/Ampexqt/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ampexqt/Ampexqt/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ampexqt/Ampexqt/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
+
+<!-- Alternative: Ocean-themed snake animation -->
+<!-- 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ampexqt/Ampexqt/output/ocean.gif" alt="Snake animation" />
+</p>
+-->
 
 <br><br>
 
