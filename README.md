@@ -114,9 +114,8 @@ const ampexqt = {
 
 <!-- GitHub Trophies - Full Width -->
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="![trophy](https://github-profile-trophy.vercel.app/?username=Ampexqt&theme=dracula&no-frame=false&margin-w=15&column=6)" alt="GitHub Trophies"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ampexqt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ampexqt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" width="48%" />
 </p>
 
 <p align="center">
