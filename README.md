@@ -112,11 +112,21 @@ const ampexqt = {
 </a>
 </p>
 
-<!-- GitHub Trophies - Full Width -->
+<!-- GitHub Achievements -->
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Ampexqt&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+<a href="https://github.com/Ampexqt">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Ampexqt&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Ampexqt&no-frame=true&margin-w=4" />
+  <img alt="GitHub Achievements" src="https://github-profile-trophy.vercel.app/?username=Ampexqt&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+</picture>
 </a>
+</p>
+
+<!-- Achievement Showcase -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🌟_Arctic_Code_Vault_Contributor-00d9ff?style=for-the-badge&labelColor=1a1b27" alt="Arctic Code Vault"/>
+  <img src="https://img.shields.io/badge/🎂_Pair_Extraordinaire-00d9ff?style=for-the-badge&labelColor=1a1b27" alt="Pair Extraordinaire"/>
 </p>
 
 <p align="center">
