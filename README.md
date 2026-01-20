@@ -13,9 +13,9 @@
 
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Ampexqt&label=Profile%20Views&color=00d9ff&style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/followers/Ampexqt?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Building-00d9ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=Ampexqt&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge&labelColor=2d333b" />
+  <img src="https://img.shields.io/github/followers/Ampexqt?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=2d333b&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-00d9ff?style=for-the-badge&labelColor=2d333b" />
 </p>
 
 </div>
@@ -106,14 +106,6 @@ const ampexqt = {
 </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/Ampexqt">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ampexqt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</a>
-<a href="https://github.com/Ampexqt">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ampexqt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&custom_title=GitHub%20Stats&hide=contribs" alt="GitHub Stats"/>
-</a>
-</p>
 
 <!-- GitHub Achievements Section -->
 <div align="center">
