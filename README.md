@@ -111,7 +111,7 @@ const ampexqt = {
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ampexqt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </a>
 <a href="https://github.com/Ampexqt">
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Ampexqt&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Ampexqt&theme=onestar&no-frame=true&no-bg=false&margin-w=4&column=4&title=Stars,Commits,Repositories,PullRequest" alt="GitHub Trophies"/>
 </a>
 </p>
 
