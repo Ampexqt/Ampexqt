@@ -110,24 +110,40 @@ const ampexqt = {
 <a href="https://github.com/Ampexqt">
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ampexqt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </a>
-</p>
-
-<!-- GitHub Achievements -->
-<p align="center">
 <a href="https://github.com/Ampexqt">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Ampexqt&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Ampexqt&no-frame=true&margin-w=4" />
-  <img alt="GitHub Achievements" src="https://github-profile-trophy.vercel.app/?username=Ampexqt&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
-</picture>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ampexqt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&custom_title=GitHub%20Stats&hide=contribs" alt="GitHub Stats"/>
 </a>
 </p>
 
-<!-- Achievement Showcase -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🌟_Arctic_Code_Vault_Contributor-00d9ff?style=for-the-badge&labelColor=1a1b27" alt="Arctic Code Vault"/>
-  <img src="https://img.shields.io/badge/🎂_Pair_Extraordinaire-00d9ff?style=for-the-badge&labelColor=1a1b27" alt="Pair Extraordinaire"/>
-</p>
+<!-- GitHub Achievements Section -->
+<div align="center">
+
+### 🏆 GitHub Achievements
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+<br><br>
+<b>Arctic Code Vault Contributor</b>
+<br>
+<sub>⭐ x2</sub>
+<br>
+<sub><i>Code preserved in the Arctic Code Vault</i></sub>
+</td>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+<br><br>
+<b>Pair Extraordinaire</b>
+<br>
+<sub>🎂</sub>
+<br>
+<sub><i>Exceptional collaboration on PRs</i></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <p align="center">
 <a href="https://github.com/Ampexqt">
