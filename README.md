@@ -213,7 +213,7 @@ const ampexqt = {
 <sub>Kalapastangan, Multo, Musika</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/216655868-c501f9f8-d996-43aa-8f09-e3f7b6da6a4f.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100"/>
 <br><br>
 <b>🌄 Outdoor Activities</b>
 <br>
