@@ -3,20 +3,28 @@
 <!-- Header: Coding GIF -->
 <img src="./gif/coding.gif" width="100%" alt="Coding Animation"/>
 
+<br><br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00D9FF&center=true&width=500&lines=Hello+World;Jhon+Harold+Rueda" alt="Test Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D9FF&center=true&width=500&lines=Hello+World;Jhon+Harold+Rueda" alt="Name Typing" />
 </p>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+scalable+web+solutions+%F0%9F%9A%80;From+Mindanao%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD;Turning+coffee+into+code+%E2%98%95;Making+the+web+awesome%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Subtitle" />
 </p>
 
+<br>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Ampexqt&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge&labelColor=2d333b" />
   <img src="https://img.shields.io/github/followers/Ampexqt?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=2d333b&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/STATUS-BUILDING-00d9ff?style=for-the-badge&labelColor=2d333b" />
 </p>
+
+<br>
+
+<!-- Thick Separator Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 
 </div>
 
