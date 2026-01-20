@@ -184,33 +184,40 @@ const ampexqt = {
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="80"/>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
 <br><br>
 <b>📺 Anime Enthusiast</b>
 <br>
-<sub>One Piece, AOT, JJK</sub>
+<sub>Charlotte, My Hero Academia, Grand Blue</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzljZjVkOWMyYmJkYmE0NWY2ZDk5NWM4NzVjMzJkYTk5NTg5YjJmZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/SWoRKslHVtqEasqYCJ/giphy.gif" width="80"/>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100"/>
+<br><br>
+<b>📖 Reading Manwha/Manhua</b>
+<br>
+<sub>Mount Hua Sect, Killer Pietro, TBATE</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100"/>
 <br><br>
 <b>🎮 Gaming</b>
 <br>
-<sub>RPGs & Strategy Games</sub>
+<sub>Dota 2, Valorant, Roblox</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="80"/>
-<br><br>
-<b>🎨 UI/UX Design</b>
-<br>
-<sub>Figma & Design Systems</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjB2OGNzODN4MWN1aWZ4NGk2ZjRiZWduaWRrMXJyYmtzY2lhYzJjZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/fwbZnTftCXVocKzfxR/giphy.gif" width="80"/>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100"/>
 <br><br>
 <b>🎵 Music</b>
 <br>
-<sub>Lo-fi & Electronic</sub>
+<sub>Kalapastangan, Multo, Musika</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/216655868-c501f9f8-d996-43aa-8f09-e3f7b6da6a4f.gif" width="100"/>
+<br><br>
+<b>🌄 Outdoor Activities</b>
+<br>
+<sub>Hiking, Gardening, Sunset Viewing</sub>
 </td>
 </tr>
 </table>
