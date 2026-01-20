@@ -13,9 +13,9 @@
 
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Ampexqt&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Ampexqt?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Status-Building-00d9ff?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://komarev.com/ghpvc/?username=Ampexqt&label=Profile%20Views&color=00d9ff&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/Ampexqt?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building-00d9ff?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 </div>
