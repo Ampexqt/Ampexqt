@@ -253,6 +253,10 @@ const ampexqt = {
 <br>
 
 <!-- Snake Animation - Generated from YOUR real GitHub contributions! -->
+<!-- High-quality GIF versions available at:
+     Light mode: https://raw.githubusercontent.com/Ampexqt/Ampexqt/output/github-contribution-grid-snake.gif
+     Dark mode: https://raw.githubusercontent.com/Ampexqt/Ampexqt/output/github-contribution-grid-snake-dark.gif
+-->
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ampexqt/Ampexqt/output/github-contribution-grid-snake-dark.svg">
