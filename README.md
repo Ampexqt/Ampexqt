@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header: Coding GIF -->
-<img src="./gif/coding.gif" width="100%" alt="Coding Animation"/>
+<img src="./gif/jeff-coding.gif" width="100%" alt="Coding Animation"/>
 
 <br><br>
 
