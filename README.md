@@ -154,12 +154,6 @@ const ampexqt = {
 
 </div>
 
-<p align="center">
-<a href="https://github.com/Ampexqt">
-<img width="95%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ampexqt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Current Focus
