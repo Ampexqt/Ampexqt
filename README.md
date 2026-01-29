@@ -46,11 +46,19 @@ const ampexqt = {
     "Faculty Performance Evaluation System",
     "Modern React dashboards with clean UI/UX",
     "Backend APIs with Node.js & Express",
-    "Improving system architecture and scalability"
+    "Improving system architecture and scalability",
   ],
 
   techStack: {
-    frontend: ["React", "JavaScript", "HTML", "CSS", "Vite", "Tailwind CSS", "Bootstrap"],
+    frontend: [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Vite",
+      "Tailwind CSS",
+      "Bootstrap",
+    ],
     backend: ["Node.js", "Express.js", "Python", "PHP"],
     databases: ["MySQL", "PostgreSQL", "Firebase"],
     mobile: ["Flutter", "Dart"],
@@ -61,14 +69,13 @@ const ampexqt = {
     "Clean architecture",
     "Performance optimization",
     "Scalable systems",
-    "Developer experience"
+    "Developer experience",
   ],
 
   funFact: "I refactor code for fun.",
   lifePhilosophy: "If it works, improve it. If it's clean, scale it.",
-  drinkOfChoice: "☕ Coffee"
+  drinkOfChoice: "☕ Coffee",
 };
-
 ```
 
 <div align="center">
@@ -82,18 +89,22 @@ const ampexqt = {
 <td width="50%" valign="top">
 
 ### 🎨 Frontend Development
+
 <img src="https://skillicons.dev/icons?i=react,html,css,js,vite,tailwind,bootstrap&theme=dark&perline=4" />
 
-### 📱 Mobile Development  
+### 📱 Mobile Development
+
 <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark&perline=4" />
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ Backend & Database
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql,postgres,firebase&theme=dark&perline=4" />
 
 ### 🛠️ DevOps & Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,firebase,npm&theme=dark&perline=4" />
 
 </td>
@@ -109,10 +120,9 @@ const ampexqt = {
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ampexqt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/Ampexqt">
-<img width="49%" src="https://streak-stats.demolab.com/?user=Ampexqt&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=Ampexqt&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
 </a>
 </p>
-
 
 <!-- GitHub Achievements Section -->
 <div align="center">
@@ -265,7 +275,7 @@ const ampexqt = {
 </p>
 
 <!-- Alternative: Ocean-themed snake animation -->
-<!-- 
+<!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/Ampexqt/Ampexqt/output/ocean.gif" alt="Snake animation" />
 </p>
