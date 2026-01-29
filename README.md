@@ -156,7 +156,7 @@ const ampexqt = {
 
 <p align="center">
 <a href="https://github.com/Ampexqt">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ampexqt&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&area_color=00d9ff&custom_title=Contribution%20Timeline" alt="Contribution Graph"/>
+<img width="95%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ampexqt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </a>
 </p>
 
@@ -236,12 +236,6 @@ const ampexqt = {
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="25"> Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/bossyatoh">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/bossyatoh">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
-</a>
 <a href="https://www.facebook.com/haroldzkie23">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
 </a>
