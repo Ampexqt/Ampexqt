@@ -43,7 +43,7 @@ const ampexqt = {
   timezone: "GMT+8",
 
   currentlyWorkingOn: [
-    "Faculty Performance Evaluation System",
+    "Looking for Another Project",
     "Modern React dashboards with clean UI/UX",
     "Backend APIs with Node.js & Express",
     "Improving system architecture and scalability",
