@@ -47,6 +47,7 @@ const ampexqt = {
     "Modern React dashboards with clean UI/UX",
     "Backend APIs with Node.js & Express",
     "Improving system architecture and scalability",
+    "Building a new website for my business",
   ],
 
   techStack: {
@@ -58,11 +59,12 @@ const ampexqt = {
       "Vite",
       "Tailwind CSS",
       "Bootstrap",
+      "TypeScript",
     ],
     backend: ["Node.js", "Express.js", "Python", "PHP"],
     databases: ["MySQL", "PostgreSQL", "Firebase"],
     mobile: ["Flutter", "Dart"],
-    tools: ["Git", "GitHub", "VS Code", "Figma", "npm", "Vercel", "Netlify"],
+    tools: ["Git", "GitHub", "VS Code", "Figma", "npm", "Vercel" "yarn", "Netlify"],
   },
 
   focusAreas: [
