@@ -45,6 +45,7 @@ const ampexqt = {
   currentlyWorkingOn: [
     "Looking for Another Project",
     "Modern React dashboards with clean UI/UX",
+     "Systems Design and Architecture",
     "Backend APIs with Node.js & Express",
     "Improving system architecture and scalability",
     "Building a new website for my business",
