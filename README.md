@@ -40,7 +40,7 @@ const ampexqt = {
   alias: "Ampexqt",
   role: "Full Stack Website Developer",
   location: "Philippines 🇵🇭",
-  timezone: "GMT+8",
+  
 
   currentlyWorkingOn: [
     "Looking for Another Project",
