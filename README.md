@@ -72,7 +72,7 @@ const ampexqt = {
     "Clean architecture",
     "Performance optimization",
     "Scalable systems",
-    "Developer experience",
+    
   ],
 
   funFact: "I refactor code for fun.",
