@@ -59,7 +59,6 @@ const ampexqt = {
       "CSS",
       "Vite",
       "Tailwind CSS",
-      "Bootstrap",
       "TypeScript",
     ],
     backend: ["Node.js", "Express.js", "Python", "PHP"],
