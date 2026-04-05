@@ -184,49 +184,6 @@ const ampexqt = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> When I'm Not Coding...
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
-<br><br>
-<b>📺 Anime Enthusiast</b>
-<br>
-<sub>Charlotte, My Hero Academia, Grand Blue</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100"/>
-<br><br>
-<b>📖 Reading Manwha/Manhua</b>
-<br>
-<sub>Mount Hua Sect, Killer Pietro, TBATE</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100"/>
-<br><br>
-<b>🎮 Gaming</b>
-<br>
-<sub>Dota 2, Valorant, Roblox</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100"/>
-<br><br>
-<b>🎵 Music</b>
-<br>
-<sub>Kalapastangan, Multo, Musika</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100"/>
-<br><br>
-<b>🌄 Outdoor Activities</b>
-<br>
-<sub>Hiking, Gardening, Sunset Viewing</sub>
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
 
