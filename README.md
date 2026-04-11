@@ -127,36 +127,6 @@ const ampexqt = {
 </a>
 </p>
 
-<!-- GitHub Achievements Section -->
-<div align="center">
-
-### 🏆 GitHub Achievements
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
-<br><br>
-<b>Arctic Code Vault Contributor</b>
-<br>
-<sub>⭐ x2</sub>
-<br>
-<sub><i>Code preserved in the Arctic Code Vault</i></sub>
-</td>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100"/>
-<br><br>
-<b>Pair Extraordinaire</b>
-<br>
-<sub>🎂</sub>
-<br>
-<sub><i>Exceptional collaboration on PRs</i></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Current Focus
