@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <!-- Header: Coding GIF -->
 <img src="./gif/Jeff-coding-quality.gif" width="100%" alt="Coding Animation"/>
