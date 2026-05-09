@@ -36,7 +36,6 @@
 ```ts
 const ampexqt = {
   name: "Jhon Harold Rueda",
-  alias: "Ampexqt",
   role: "Full Stack Website Developer",
   location: "Philippines 🇵🇭",
   
