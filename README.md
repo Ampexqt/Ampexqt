@@ -63,7 +63,6 @@ const ampexqt = {
     ],
     backend: ["Node.js", "Express.js", "Python", "PHP"],
     databases: ["MySQL", "PostgreSQL", "Firebase"],
-    mobile: ["Flutter", "Dart"],
     tools: ["Git", "GitHub", "VS Code", "Figma", "npm", "Vercel" "yarn", "Netlify"],
   },
 
