@@ -63,7 +63,7 @@ const ampexqt = {
       "NextJS",
     ],
     backend: ["Node.js", "Express.js", "Python", "PHP"],
-    databases: ["MySQL", "PostgreSQL", "Firebase"],
+    databases: ["MySQL", "PostgreSQL", "Firebase", "Supabase"],
     tools: ["Git", "GitHub", "VS Code", "Figma", "npm", "Vercel" "yarn", "Netlify"],
   },
 
