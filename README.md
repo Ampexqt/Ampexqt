@@ -37,7 +37,7 @@
 const ampexqt = {
   name: "Jhon Harold Rueda",
   role: "Full Stack Website Developer",
-  location: "Philippines 🇵🇭",
+  location: "Zamboanga City, Philippines 🇵🇭",
   
 
   currentlyWorkingOn: [
