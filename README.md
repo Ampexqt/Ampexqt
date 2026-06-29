@@ -65,6 +65,7 @@ const ampexqt = {
     backend: ["Node.js", "Express.js", "Python", "PHP"],
     databases: ["MySQL", "PostgreSQL", "Firebase", "Supabase"],
     tools: ["Git", "GitHub", "VS Code", "Figma", "npm", "Vercel" "yarn", "Netlify"],
+    CI / CD: ["Jenkins", "Github Actions"],
   },
 
   focusAreas: [
