@@ -60,7 +60,6 @@ const ampexqt = {
       "Tailwind CSS",
       "TypeScript",
       "SaaS",
-      "NextJS",
     ],
     backend: ["Node.js", "Express.js", "Python", "PHP"],
     databases: ["MySQL", "PostgreSQL", "Firebase", "Supabase"],
