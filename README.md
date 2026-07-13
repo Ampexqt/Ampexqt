@@ -73,7 +73,6 @@ const ampexqt = {
     
   ],
 
-  funFact: "I refactor code for fun.",
   lifePhilosophy: "If it works, improve it. If it's clean, scale it.",
   drinkOfChoice: "☕ Coffee",
 };
