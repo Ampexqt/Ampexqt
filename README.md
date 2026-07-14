@@ -69,7 +69,6 @@ const ampexqt = {
   focusAreas: [
     "Clean architecture",
     "Performance optimization",
-    "Scalable systems",
     
   ],
 
