@@ -56,7 +56,6 @@ const ampexqt = {
       "HTML",
       "CSS",
       "PHP",
-      "Vite",
       "Tailwind CSS",
       "TypeScript",
     ],
