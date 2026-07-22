@@ -1,7 +1,4 @@
-<div align="center">
-<!-- Header: Coding GIF -->
-<img src="./gif/Jeff-coding-quality.gif" width="100%" alt="Coding Animation"/>
-<br><br>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D9FF&center=true&width=500&lines=Hello+World;Jhon+Harold+Rueda" alt="Name Typing" />
