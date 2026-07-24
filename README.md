@@ -48,7 +48,6 @@ underneath, backed by SQL and Firebase. Currently open to my next project.
 
 <div align="center">
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ampexqt&show_icons=true&hide_border=true&hide_title=true&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=Ampexqt&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=808080"/>
 </div>
 
 <br>
