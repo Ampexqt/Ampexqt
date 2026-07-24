@@ -1,55 +1,72 @@
 <div align="center">
+
 <img src="./gif/Jeff-coding-quality.gif" width="100%" alt="header"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
+
+<br>
+
+# JHON HAROLD RUEDA
+
+<sub>FULL STACK WEBSITE DEVELOPER · ZAMBOANGA CITY, PHILIPPINES 🇵🇭</sub>
+
+<br><br>
+
+I build web apps end to end — React interfaces on top, Node &amp; PHP APIs
+underneath, backed by SQL and Firebase. Currently open to my next project.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
+
 </div>
 
 <br>
 
-# Jhon Harold Rueda
+### Stack
 
-Full Stack Website Developer — Zamboanga City, Philippines 🇵🇭
-
-I build web apps end to end — from React interfaces down to the APIs and databases behind them. Currently looking for my next project.
-
-<br>
-
-### Working with
-
-`React` `TypeScript` `Node.js` `Express` `PHP` `Python`
-`MySQL` `PostgreSQL` `Firebase` `Supabase`
-`Git` `Figma` `Vercel` `Jenkins` · `GitHub Actions`
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=dark&perline=6"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,postgres,firebase,supabase&theme=dark&perline=8"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,jenkins,githubactions,npm&theme=dark&perline=8"/>
+</div>
 
 <br>
 
 ### Right now
 
-- Open to new projects and collaborations
-- Refining dashboard UI/UX in React
-- Sharpening backend architecture — APIs that scale
-- Building a website for my own business
-
-<br>
-
-### Principle
-
-*"If it works, improve it. If it's clean, scale it."*
+<table>
+<tr><td>🟢</td><td>Open to new projects and collaborations</td></tr>
+<tr><td>🎨</td><td>Refining dashboard UI/UX in React</td></tr>
+<tr><td>⚙️</td><td>Sharpening backend architecture — APIs that scale</td></tr>
+<tr><td>🌐</td><td>Building a website for my own business</td></tr>
+</table>
 
 <br>
 
 ### Stats
 
-<p align="left">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ampexqt&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=000000&icon_color=000000&text_color=333333&ring_color=000000" alt="stats"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=Ampexqt&hide_border=true&background=00000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333&currStreakNum=333333&dates=808080" alt="streak"/>
-</p>
-
-<br>
-
-### Reach me
-
-[Facebook](https://www.facebook.com/haroldzkie23) · [Instagram](https://www.instagram.com/ampexxqt) · [Email](mailto:haroldzkie99@gmail.com)
+<div align="center">
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ampexqt&show_icons=true&hide_border=true&hide_title=true&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=Ampexqt&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=808080"/>
+</div>
 
 <br>
 
 <div align="center">
-<sub>Built with coffee ☕</sub>
+
+### Connect
+
+<a href="https://www.facebook.com/haroldzkie23"><img src="https://img.shields.io/badge/Facebook-0d1117?style=flat-square&logo=facebook&logoColor=00d9ff"/></a>
+<a href="https://www.instagram.com/ampexxqt"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=00d9ff"/></a>
+<a href="https://www.tiktok.com/@ampexqt"><img src="https://img.shields.io/badge/TikTok-0d1117?style=flat-square&logo=tiktok&logoColor=00d9ff"/></a>
+<a href="https://haroldqt.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=00d9ff"/></a>
+<a href="mailto:haroldzkie99@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00d9ff"/></a>
+
+<br><br>
+
+<i>"If it works, improve it. If it's clean, scale it."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer" width="100%"/>
+
 </div>
