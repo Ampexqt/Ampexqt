@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./gif/Jeff-coding-quality.gif" width="100%" alt="header"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
 
