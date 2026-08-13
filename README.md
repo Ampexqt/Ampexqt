@@ -1,4 +1,4 @@
-<div align="center">
+
   
 <img src="./gif/Jeff-coding-quality.gif" width="100%" alt="Header GIF"/>
 
