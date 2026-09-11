@@ -42,11 +42,7 @@ underneath, backed by SQL and Firebase. Currently open to my next project.
 
 <br>
 
-### Stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ampexqt&show_icons=true&hide_border=true&hide_title=true&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-</div>
 
 <br>
 
