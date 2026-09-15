@@ -1,7 +1,4 @@
-<img width="743" height="493" alt="image" src="https://github.com/user-attachments/assets/2018cedf-88da-4a0d-8473-72e1cfeefc4b" />
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
 
 <br>
 
