@@ -1,4 +1,8 @@
+<div align="center">
 
+<img src="./gif/Jeff-coding-quality.gif" width="100%" alt="Header GIF"/>
+
+<br><br>
 
 <sub>FULL STACK WEBSITE DEVELOPER · ZAMBOANGA CITY, PHILIPPINES 🇵🇭</sub>
 
@@ -31,10 +35,6 @@ underneath, backed by SQL and Firebase. Currently open to my next project.
 <tr><td>⚙️</td><td>Sharpening backend architecture — APIs that scale</td></tr>
 <tr><td>🌐</td><td>Building a website for my own business</td></tr>
 </table>
-
-<br>
-
-
 
 <br>
 
