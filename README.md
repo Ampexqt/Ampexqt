@@ -1,27 +1,54 @@
 <div align="center">
 
-# 👨‍💻 Jhon Harold Rueda
-**Full Stack Web Developer · Building Scalable & Modern Web Applications**
+<a href="https://github.com/Ampexqt">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=JHON+HAROLD+RUEDA;FULL+STACK+WEB+DEVELOPER;REACT+%7C+NODE.JS+%7C+PHP+%7C+SQL;BUILDING+SCALABLE+WEB+APPS;OPEN+FOR+COLLABORATIONS" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <a href="https://haroldqt.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-haroldqt.vercel.app-0d1117?style=flat-square&logo=vercel&logoColor=00d9ff&labelColor=0d1117&color=00d9ff" alt="Portfolio"/></a>
-  <img src="https://img.shields.io/badge/Location-Zamboanga_City,_PH-0d1117?style=flat-square&logo=googlemaps&logoColor=00d9ff&labelColor=0d1117" alt="Location"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_Projects-0d1117?style=flat-square&logo=git&logoColor=00d9ff&labelColor=0d1117" alt="Status"/>
+  <a href="https://haroldqt.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-haroldqt.vercel.app-00d9ff?style=for-the-badge&logo=vercel&logoColor=00d9ff&labelColor=0d1117" alt="Portfolio"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LOCATION-Zamboanga_City,_PH-a855f7?style=for-the-badge&logo=googlemaps&logoColor=a855f7&labelColor=0d1117" alt="Location"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_PROJECTS-10b981?style=for-the-badge&logo=git&logoColor=10b981&labelColor=0d1117" alt="Status"/>
 </p>
 
-<img src="./gif/Jeff-coding-quality.gif" width="460" alt="Coding GIF"/>
+</div>
 
-<br><br>
+<br>
 
-<p align="center">
-  Crafting end-to-end web experiences with clean architecture and modern UX.<br/>
-  Specializing in responsive <b>React</b> frontends backed by robust <b>Node.js & PHP</b> APIs,<br/>
-  scaled with performant SQL and Firebase infrastructure.
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="52%" valign="middle">
+<pre>
+<code>// ampexqt.config.js
+const developer = {
+  name: "Jhon Harold Rueda",
+  role: "Full Stack Web Developer",
+  location: "Zamboanga City, Philippines 🇵🇭",
+  stack: {
+    frontend: ["React", "TypeScript", "Tailwind"],
+    backend:  ["Node.js", "Express", "PHP"],
+    database: ["MySQL", "PostgreSQL", "Firebase"],
+    workflow: ["Git", "Docker", "Vercel", "CI/CD"]
+  },
+  mission: "Transforming complex logic into sleek UX",
+  status: "Available for high-impact projects"
+};</code>
+</pre>
+    </td>
+    <td width="48%" align="center" valign="middle">
+      <img src="./gif/Jeff-coding-quality.gif" width="100%" alt="Coding Environment"/>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
+
+### ⚡ TECH ARSENAL
 
 <br>
 
@@ -30,48 +57,50 @@
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=dark" alt="Frontend Stack"/>
 </p>
 
-<br>
-
 <p align="center">
-  <b>Backend & Database</b><br/>
+  <b>Backend & Databases</b><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,postgres,firebase,supabase&theme=dark" alt="Backend Stack"/>
 </p>
 
-<br>
-
 <p align="center">
   <b>DevOps & Tooling</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,jenkins,githubactions,npm&theme=dark" alt="Tools Stack"/>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,jenkins,githubactions,npm&theme=dark" alt="DevOps Stack"/>
 </p>
+
+</div>
 
 ---
 
-### ⚡ Current Focus
+<div align="center">
 
-<br>
+### 🎯 CURRENT FOCUS
 
-<table align="center">
+</div>
+
+<table align="center" width="100%">
   <tr>
-    <td align="center">🚀</td>
-    <td><b>Full-Stack Development</b> — Engineering modern web platforms from concept to deployment</td>
+    <td align="center" width="60">🚀</td>
+    <td><b>Full-Stack Engineering</b> — Designing end-to-end architectures from responsive client apps to scalable cloud backends</td>
   </tr>
   <tr>
-    <td align="center">🎨</td>
-    <td><b>UI/UX Refinement</b> — Creating intuitive, responsive, and aesthetic user interfaces in React & Tailwind</td>
+    <td align="center" width="60">🎨</td>
+    <td><b>High-Performance UI/UX</b> — Crafting fluid, accessible component systems using React, Tailwind CSS, and micro-interactions</td>
   </tr>
   <tr>
-    <td align="center">⚙️</td>
-    <td><b>Scalable Backend Services</b> — Designing reliable RESTful APIs, schemas, and real-time databases</td>
+    <td align="center" width="60">⚙️</td>
+    <td><b>Resilient APIs & Schemas</b> — Building secured RESTful services, caching strategies, and relational database systems</td>
   </tr>
   <tr>
-    <td align="center">🌐</td>
-    <td><b>Business Solutions</b> — Developing tailored web systems and digital products</td>
+    <td align="center" width="60">💼</td>
+    <td><b>Digital Product Systems</b> — Architecting tailored web solutions and automation tools for businesses</td>
   </tr>
 </table>
 
 ---
 
-### 📈 Contribution Activity
+<div align="center">
+
+### 🐍 CONTRIBUTION TIMELINE
 
 <br>
 
@@ -81,31 +110,35 @@
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ampexqt/Ampexqt/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
+</div>
+
 ---
 
-### 📬 Connect With Me
+<div align="center">
+
+### 📬 CONNECT WITH ME
 
 <br>
 
 <p align="center">
   <a href="https://haroldqt.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00d9ff" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-00d9ff?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="mailto:haroldzkie99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00d9ff" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d1117" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://www.facebook.com/haroldzkie23" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=00d9ff" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/FACEBOOK-1877f2?style=for-the-badge&logo=facebook&logoColor=ffffff&labelColor=0d1117" alt="Facebook"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/ampexxqt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00d9ff" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-e4405f?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=0d1117" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="https://www.tiktok.com/@ampexqt" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-0d1117?style=for-the-badge&logo=tiktok&logoColor=00d9ff" alt="TikTok"/>
+    <img src="https://img.shields.io/badge/TIKTOK-00f2fe?style=for-the-badge&logo=tiktok&logoColor=0d1117&labelColor=0d1117" alt="TikTok"/>
   </a>
 </p>
 
