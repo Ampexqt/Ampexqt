@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jhon Harold Rueda
+
 
 <p align="center">
   <b>Full Stack Web Developer</b> &nbsp;·&nbsp; Building Modern, High-Performance Web Applications
